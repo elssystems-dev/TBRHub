@@ -1,4 +1,4 @@
-# TBRHub - Biblioteca Digital
+# TBRHub - Biblioteca Digital 📚🤖
 Para o TCS de LiMa (Linguagens de Marcação), que envolve criar um site que preze pela sustentabilidade, de tema qualquer. No caso, uma livraria. 📖
 
 **Tópicos 📝**
@@ -23,7 +23,7 @@ _"Dado às paywalls excessivas dos renomados bancos de livros online, a intenç�
 - SiteMap: https://app.creately.com/d/PyK48IX5xxG/edit
 
 
-**Design 🎨**
+# Design 🎨
 
 _**1. Fontes**_ 🔠
 
