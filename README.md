@@ -1,6 +1,8 @@
 # TBRHub - Biblioteca Digital 📚🤖
 Para o TCS de LiMa (Linguagens de Marcação), que envolve criar um site que preze pela sustentabilidade, de tema qualquer. No caso, uma livraria. 📖
 
+Seguindo a premissa de uma “enorme estante de livros”, TBR significa “To Be Read” e Hub, traduzindo a ideia para o português seria: Ponto a ser lido. O usuário poderá navegar livremente entre livros virtuais para ler, favoritá-los e até mesmo publicar sua própria obra (com aprovação de nossa equipe, para filtrar conteúdos indesejados).
+
 **Tópicos 📝**
 - **Tema:** Armazém de livros digital (como se fosse Netflix de livros);
 - **Nome do Grupo:** Bibliotechs;
@@ -21,6 +23,7 @@ _"Dado às paywalls excessivas dos renomados bancos de livros online, a intenç�
 - Onedrive: https://sesisenaispedu-my.sharepoint.com/:f:/r/personal/eduardo_garcia4_portalsesisp_org_br/Documents/Desenvolvimento%20Web?csf=1&web=1&e=MqvBHT
 - Wireframe: https://www.canva.com/design/DAGzUySKCV4/mJbwbQ0L5iy6drg_Cw2NaQ/edit?utm_content=DAGzUySKCV4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 - SiteMap: https://app.creately.com/d/PyK48IX5xxG/edit
+- User Flow: https://sesisenaispedu-my.sharepoint.com/my?id=%2Fpersonal%2Feduardo%5Fgarcia4%5Fportalsesisp%5Forg%5Fbr%2FDocuments%2FDesenvolvimento%20Web%2FDesign%2FUser%20Flow&ga=1
 
 
 # Design 🎨
